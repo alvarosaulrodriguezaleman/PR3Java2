@@ -1,0 +1,16 @@
+Test array0010.txt Memoization Process time: 0.001
+Test array0010.txt Tabulation Process time: 0.0
+Test array0100.txt Memoization Process time: 0.001
+Test array0100.txt Tabulation Process time: 0.0
+Test array0200.txt Memoization Process time: 0.003
+Test array0200.txt Tabulation Process time: 0.001
+Test array0400.txt Memoization Process time: 0.002
+Test array0400.txt Tabulation Process time: 0.002
+Test array0800.txt Memoization Process time: 0.008
+Test array0800.txt Tabulation Process time: 0.002
+Test array1600.txt Memoization Process time: 0.039
+Test array1600.txt Tabulation Process time: 0.004
+Test array3200.txt Memoization Process time: 0.056
+Test array3200.txt Tabulation Process time: 0.015
+Test array6400.txt Memoization Process time: 0.169
+Test array6400.txt Tabulation Process time: 0.068
